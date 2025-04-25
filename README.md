@@ -31,35 +31,36 @@ EcoPlate/ ├── client/ # React frontend ├── server/ # Express backend
 # Setup and Installation
 To run the EcoPlate locally, follow these steps:
 
-1. Clone the Repository
+# 1. Clone the Repository
 
 git clone https://github.com/Sdp00/EcoPlate.git
+
 cd EcoPlate
 
-2. Setup the client
+# 2. Setup the client
  
 cd client
 npm install
 
-3. Setup the server
+# 3. Setup the server
 cd server
 npm install
 
-4. Start the Backend
+# 4. Start the Backend
 
 node app.js
 
-5. Setup the Frontend
+# 5. Setup the Frontend
 
 cd ../client
 
 npm run dev
 
 # Modules
-1. Donor Module: Food donation form (type, quantity, contact details)
-2. Receiver Module: Browse available food donations and make a request
-3. Plate Waste Module: Submit leftover food for agricultural use
-4. Farmer Access: Farmers can browse available organic waste to use in farming
+- Donor Module: Food donation form (type, quantity, contact details)
+- Receiver Module: Browse available food donations and make a request
+- Plate Waste Module: Submit leftover food for agricultural use
+- Farmer Access: Farmers can browse available organic waste to use in farming
 
 # About Me
 I’m Sudeep, a passionate developer driven to create impactful and meaningful tech solutions. With expertise in full-stack development and a deep interest in sustainability, I believe in using technology to solve real-world problems.
