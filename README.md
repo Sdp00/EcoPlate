@@ -63,7 +63,7 @@ npm run dev
 - Farmer Access: Farmers can browse available organic waste to use in farming
 
 # About Me
-I’m Sudeep, a passionate developer driven to create impactful and meaningful tech solutions. With expertise in full-stack development and a deep interest in sustainability, I believe in using technology to solve real-world problems.
+I’m Sudeep, a developer passionate about technology and sustainability. I’m still learning and growing my skills, but I believe in using technology to create positive change in the world.
 
 - Sustainability Advocate – Always looking for ways to make tech work for the planet and future generations.
 - Full-Stack Developer – Skilled in building web applications with modern stacks like MERN, integrating APIs, and optimizing user experiences.
