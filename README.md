@@ -65,7 +65,7 @@ npm run dev
 - Plate Waste Module: Submit leftover food for agricultural use
 - Farmer Access: Farmers can browse available organic waste to use in farming
 
-# About Me
+# 🚀About Me
 I’m Sudeep, a developer passionate about technology and sustainability. I’m still learning and growing my skills, but I believe in using technology to create positive change in the world.
 
 💡 Sustainability Enthusiast – Exploring ways to make tech work for the planet and reduce waste.  
