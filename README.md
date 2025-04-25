@@ -10,12 +10,12 @@ EcoPlate aims to reduce food waste, support farmers, and contribute to environme
 # Features
 - Donor Module: Easily donate surplus food, including type, quantity, and contact info.
 - Receiver Module: Find available food donations and request them.
-- Plate Waste Module**: Submit plate waste from restaurants or households to be repurposed as organic fertilizer.
-- Farmer Access**: Farmers can access organic waste at low cost for sustainable farming.
-- Real-time Updates**: Donors and receivers can track and confirm donations.
-- Responsive UI**: Built with React and Tailwind CSS for a seamless experience on all devices.
-- Light/Dark Mode**: Toggle between dark and light modes for personalized comfort.
-- Future Features**: Authentication, smart waste tracking, NGO/farm partnerships, and more!
+- Plate Waste Module: Submit plate waste from restaurants or households to be repurposed as organic fertilizer.
+- Farmer Access: Farmers can access organic waste at low cost for sustainable farming.
+- Real-time Updates: Donors and receivers can track and confirm donations.
+- Responsive UI: Built with React and Tailwind CSS for a seamless experience on all devices.
+- Light/Dark Mode: Toggle between dark and light modes for personalized comfort.
+- Future Features: Authentication, smart waste tracking, NGO/farm partnerships, and more!
 
 # Tech Stack
 
@@ -52,6 +52,7 @@ node app.js
 4. Start the Frontend
 
 cd ../client
+
 npm run dev
 
 # Modules
