@@ -30,7 +30,7 @@ EcoPlate/ ├── client/ # React frontend ├── server/ # Express backend
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/EcoPlate.git
+git clone https://github.com/Sdp00/EcoPlate.git
 cd EcoPlate
 
 2. Install Dependencies
