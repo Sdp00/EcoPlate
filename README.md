@@ -68,7 +68,8 @@ npm run dev
 # About Me
 I’m Sudeep, a developer passionate about technology and sustainability. I’m still learning and growing my skills, but I believe in using technology to create positive change in the world.
 
-- Sustainability Enthusiast – Exploring ways to make tech work for the planet and reduce waste.  
-- Full-Stack Developer in Progress – Learning to build web applications with technologies like MERN, and always improving.  
-- Social Impact Seeker – Focused on projects that can make a difference in communities and the environment.  
-- Lifelong Learner – Constantly experimenting with new technologies and expanding my skills.
+💡 Sustainability Enthusiast – Exploring ways to make tech work for the planet and reduce waste.  
+🔧 Full-Stack Developer in Progress – Learning to build web applications with technologies like MERN, and always improving.  
+🌱 Social Impact Seeker – Focused on projects that can make a difference in communities and the environment.  
+📚 Lifelong Learner – Constantly experimenting with new technologies and expanding my skills.
+
