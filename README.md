@@ -45,21 +45,21 @@ npm install
 cd server
 npm install
 
-3. Start the Backend
+- Start the Backend
 
 node app.js
 
-4. Start the Frontend
+- Start the Frontend
 
 cd ../client
 
 npm run dev
 
 # Modules
-Donor Module: Food donation form (type, quantity, contact details)
-Receiver Module: Browse available food donations and make a request
-Plate Waste Module: Submit leftover food for agricultural use
-Farmer Access: Farmers can browse available organic waste to use in farming
+1. Donor Module: Food donation form (type, quantity, contact details)
+2. Receiver Module: Browse available food donations and make a request
+3. Plate Waste Module: Submit leftover food for agricultural use
+4. Farmer Access: Farmers can browse available organic waste to use in farming
 
 # About Me
 I’m Sudeep, a passionate developer driven to create impactful and meaningful tech solutions. With expertise in full-stack development and a deep interest in sustainability, I believe in using technology to solve real-world problems.
