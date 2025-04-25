@@ -33,6 +33,7 @@ To run the EcoPlate locally, follow these steps:
 
 # 1. Clone the Repository
 
+
 git clone https://github.com/Sdp00/EcoPlate.git
 
 cd EcoPlate
@@ -40,10 +41,12 @@ cd EcoPlate
 # 2. Setup the client
  
 cd client
+
 npm install
 
 # 3. Setup the server
 cd server
+
 npm install
 
 # 4. Start the Backend
