@@ -28,28 +28,28 @@ EcoPlate aims to reduce food waste, support farmers, and contribute to environme
 
 EcoPlate/ ├── client/ # React frontend ├── server/ # Express backend ├── .gitignore └── README.md
 
+# Setup and Installation
+To run the EcoPlate locally, follow these steps:
+
 1. Clone the Repository
 
 git clone https://github.com/Sdp00/EcoPlate.git
 cd EcoPlate
 
-2. Install Dependencies
-   
-# Client
-
+2. Setup the client
+ 
 cd client
 npm install
 
-# Server
-
+3. Setup the server
 cd server
 npm install
 
-- Start the Backend
+4. Start the Backend
 
 node app.js
 
-- Start the Frontend
+5. Setup the Frontend
 
 cd ../client
 
